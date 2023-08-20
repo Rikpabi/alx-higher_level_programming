@@ -13,21 +13,13 @@
 
 ## Requirements
    - Install Node 14
-     `- $ curl -sL 
+     `- $ curl -sL https://deb.nodesource.com/setup_14.x | sudo -E 
 
-https://deb.nodesource.com/setup_14.x | sudo -E 
-
-bash -
-     - $ sudo apt-get install -y nodejs`
+bash -'
+     - $ sudo apt-get install -y nodejs
    - Install semi-standard
-   - [Documentation]
-
-(https://intranet.alxswe.com/rltoken/oc1-
-
-9XTUtCiIyZkdAFvoUQ)
-     `- $ $ sudo npm install semistandard --
-
-global`
+   - [Documentation](https://intranet.alxswe.com/rltoken/oc1-9XTUtCiIyZkdAFvoUQ)
+     `- $ sudo npm install semistandard --global`
 
 
 ---
